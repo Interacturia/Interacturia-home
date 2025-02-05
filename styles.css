@@ -34,9 +34,11 @@ body {
   footer {
     padding: 10px;
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
     width: 100%;
-    background-color: #0820d4 !important;
+    background-color: #ffffffd2 !important;
+    border-color: #000000 ;
+    border-width: 900px ;
   }
   .titulo {
     text-align: center;
